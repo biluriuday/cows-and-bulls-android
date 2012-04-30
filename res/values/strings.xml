@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CowsAndBullsActivity!</string>
+    <string name="app_name">Cows And Bulls</string>
+    <string name="textboxDefaultHint">Enter the word</string>
+    <string name="btnGuessText">Check</string>
+    <string name="sampleText">Terming Standard and Poor’s decision to lower India’s credit rating outlook to negative as a “timely warning”, Finance Minister Pranab Mukherjee on Wednesday said there is no need to panic as the government is committed to economic reforms.
+
+“I am concerned but I don’t feel panicky because I am confident that our economy will grow at 7 per cent, around 7 per cent if not plus. We will be able to control fiscal deficit and it will be around 5.1 per cent”, he told reporters here.
+
+The Minister, however, said that government will take note of the S&amp;P’s decision to lower India’s rating outlook to BBB — (the lowest investment grade rating) and work for achieving higher economic growth.
+
+“So economic reforms will be on track. The reform process and necessary administrative decisions required to ensure that fiscal deficit is retained at projected level (will be taken).
+
+“We should continue to work for higher GDP&#8230; We will take note. It is a timely warning”, the Minister said.
+Global agency Standard and Poor’s (S&amp;P) on Wednesday lowered India’s rating outlook to negative and warned of a downgrade in two years if there is no improvement in the fiscal situation and the political climate continues to worsen.
+
+The lowering of outlook from stable (BBB+) to negative (BBB-) is expected to make external commercial borrowings expensive for Indian Inc. It may also have implications for the capital market.
+
+“The outlook revision reflects our view of at least a one-in-three likelihood of a downgrade if the external position continues to deteriorate, growth prospects diminish or progress on fiscal reforms remains slow in a weakened political setting” said S &amp; P’s credit analyst Takahira Ogawa in a statement.
+
+BBB- is the lowest investment grade rating.
+
+Commenting on the rating action, Jagannadham Thunuguntla, strategist and head of research at SMC Global Securities, said “Indian (new) sovereign rating is just one step away from junk bond status&#8230;Somehow I feel the dream of India growth story is coming to an end.”
+
+The negative outlook, the rating agency further said, signals likelihood of the downgrade of India’s sovereign within the next 24 months. “A downgrade is likely if the country’s economic growth prospects is dim, its external position deteriorates, its political climate worsens, or fiscal reforms slow,” it said.
+
+The lowering of rating outlook comes despite Finance Ministry pitching for an upgrade at the recent round of meetings between the officials and representatives of the S&amp;P.</string>
+<string name="btnClearText">Clear</string>
+<string name="btnGiveupText">I give up</string>
+<string name="btn4LetterText">Play 4 Letter</string>
+<string name="btn5LetterText">Play 5 Letter</string>
+
+</resources>

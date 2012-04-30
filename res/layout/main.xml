@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+    <EditText 
+        android:hint="@string/textboxDefaultHint"
+        android:id="@+id/txtInput"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        />
+    <Button
+        android:text="@string/btnGuessText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCheck"
+        android:onClick="checkTheWordEntered"
+        ></Button>
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnClearText"
+            android:text="@string/btnClearText"
+            android:onClick="clearInputText"/>
+        <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btnGiveupText"
+            android:id="@+id/btnGiveUp"
+            android:onClick="btnGiveUpClicked"/>
+    </LinearLayout>
+    
+   	<ScrollView
+   	    android:layout_width="fill_parent"
+   	    android:layout_height="fill_parent">
+       <TextView 
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/resultPane"
+           />
+       </ScrollView>
+
+</LinearLayout>
