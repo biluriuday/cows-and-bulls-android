@@ -128,6 +128,7 @@ public class CowsAndBullsActivity extends Activity {
 							dialog.cancel();
 						}
 					});
+    		dialog = builder.create();
     		break;
     	default:
     		break;
